@@ -4,7 +4,8 @@ description: Design repeating visual structures that enable comparison across va
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5001
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - small-multiples-design
