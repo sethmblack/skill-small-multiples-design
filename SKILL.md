@@ -3,8 +3,8 @@ name: small-multiples-design
 description: Design repeating visual structures that enable comparison across variables, time periods, or categories. Based on Edward Tufte's principle that once viewers understand one frame, they immediately u...
 license: MIT
 metadata:
+  version: 1.0.5002
   author: sethmblack
-  version: 1.0.5001
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
